@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -19,15 +20,15 @@
     "cors": "^2.8.5",
     "csv-parser": "^3.2.0",
     "dotenv": "^16.4.5",
-    "ejs": "^3.1.9",
-    "express": "^4.19.2",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
     "express-session": "^1.18.0",
     "fs": "^0.0.1-security",
     "mongoose": "^8.3.0",
     "multer": "^1.4.5-lts.1",
     "node-tesseract-ocr": "^2.2.1",
     "nodemailer": "^6.9.14",
-    "nodemon": "^3.1.0",
+    "nodemon": "^3.1.10",
     "tesseract.js": "^5.1.0"
   }
 }
