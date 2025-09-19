@@ -72,7 +72,7 @@ Before running the application, ensure you have the following installed:
 2. Start the server:
 
    ```bash
-   npm start
+   nodemon server
    ```
 
 3. The application should now be running at:
